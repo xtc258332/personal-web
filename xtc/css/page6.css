@@ -1,0 +1,99 @@
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+  }
+  .container {
+    width: 1600px;
+    margin: 20px auto;
+  }
+  .section {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .section h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  .section p {
+    color: #666;
+  }
+  .bianji1{
+	  width: 800px;
+	  height: 100;
+	  margin: auto;
+  }
+  .tool-container {
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              margin: 20px;
+              padding: 20px;
+              border: 1px solid #ccc;
+              border-radius: 5px;
+          }
+          
+          .tool {
+              flex: 1;
+              text-align: center;
+          }
+		  .design-plan {
+		              display: flex;
+		              justify-content: space-between;
+		              align-items: center;
+		              margin: 20px;
+		              padding: 20px;
+		              border: 1px solid #ccc;
+		              border-radius: 5px;
+		          }
+		          
+		          .text-content {
+		              flex: 1;
+		              padding: 0 20px;
+		          }
+		  
+		          .image-content {
+		              flex: 1;
+		              text-align: center;
+		          }
+		  
+		          img {
+		              max-width: 100%;
+		              height: auto;
+		          }
+  .technology-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 20px;
+  }
+
+  .technology-analysis {
+      width: 80%;
+      margin-top: 20px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      text-align: center;
+  }
+
+  h2 {
+      margin-bottom: 10px;
+  }
+
+  p {
+      margin-bottom: 10px;
+  }
+
+  .highlight {
+      font-weight: bold;
+      color: #007bff;
+  }
+  .kongbai{
+      width: 1600px;
+      height: 70px;
+      margin: auto;
+  }
